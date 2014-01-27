@@ -1,4 +1,4 @@
-recobafinal
+Recoba proyecto final
 ===========
 En este proyecto agregamos el prototipo de la página la cual estamos creando por motivos de nuestro proyecto de fundamentos del diseño.
 
