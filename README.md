@@ -6,3 +6,6 @@ Hecho por:
 Fernando Chávez Rivera
 Miguel Angel Basilio
 Cesar Osmar Navarro Lepe
+
+La página del proyecto final es: http://recobadiseno.freeiz.com/Paginafina.html
+
